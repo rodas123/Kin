@@ -1,0 +1,45 @@
+
+#wb_header { height: 150px; }
+#wb_header > .wb_cont_bg { background-color: #7b047d; }
+#wb_header > .wb_cont_bg:before { background: transparent none repeat left top; background-size: auto auto; opacity: 1; }
+#wb_main { height: 250px; padding-bottom: 50px; }
+#wb_main > .wb_cont_bg { background-color: #7b047d; }
+#wb_main > .wb_cont_bg:before { background: transparent none repeat left top; background-size: auto auto; opacity: 1; }
+#wb_footer { height: 85px; background-color: #7b047d; }
+#wb_footer:before { background: transparent none repeat left top; background-size: auto auto; opacity: 1; }
+html { scroll-behavior: smooth; }
+body { background-color: #7b047d; }
+body.site:before { background: transparent none no-repeat scroll center top; background-size: auto auto; opacity: 1; }
+.wb_sbg { background: transparent none repeat-x left top; }
+body, .wb_sbg { min-width: 768px; min-height: 485px; }
+.wb_cont_inner { width: 768px; }
+.wb_cont_bg { width: 768px; margin-left: -384px; }
+.root { height: 485px; min-height: 485px; }
+.wb_button:active:before { background: transparent url("../gallery_gen/a6d2864271cf452ff5e2b7e6bb4bbdc7.svg") no-repeat scroll center center; background-size: auto auto; opacity: 1; }
+#wb_element_instance2 { top: 49px; left: 339px; min-width: 90px; width: 90px; min-height: 36px; height: 36px; display: block; z-index: 519; }
+
+#wb_element_instance6 { top: 100px; left: 330px; min-width: 100px; width: 100px; min-height: 100px; height: 100px; display: block; z-index: 512; }
+#wb_element_instance6 .wb_button { width: 100px; height: 100px; font-family: Georgia,serif; font-size: 10px; text-align: center; border: 1px none #000000; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; background-color: transparent; }
+#wb_element_instance6 .wb_button > span { color: #000000; font-style: normal; font-weight: bold; text-decoration: none; }
+#wb_element_instance6 .wb_button:before { background: transparent url("../gallery_gen/053505d41b8d7ff35f168e101c538b42.jpeg") no-repeat scroll center center; background-size: contain; opacity: 1; }
+#wb_element_instance6 .wb_button:hover > span { color: #ffffff; font-style: normal; font-weight: bold; text-decoration: none; }
+#wb_element_instance6 .wb_button:hover { background-color: transparent; }
+#wb_element_instance6 .wb_button:hover:before { background: transparent url("../gallery_gen/a6d2864271cf452ff5e2b7e6bb4bbdc7.svg") no-repeat scroll center center; background-size: auto auto; opacity: 1; }
+#wb_element_instance6 .wb_button:active > span { color: #000000; font-style: normal; font-weight: bold; text-decoration: none; }
+#wb_element_instance6 .wb_button:active { background-color: transparent; }
+#wb_element_instance6 .wb_button:active:before { background: transparent url("../gallery_gen/a6d2864271cf452ff5e2b7e6bb4bbdc7.svg") no-repeat scroll center center; background-size: auto auto; opacity: 1; }
+
+
+
+#wb_element_instance2 p:last-child { margin-bottom: 0; }
+#wb_element_instance2 { opacity: 1; }
+
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (max-width: 767px) {
+}
